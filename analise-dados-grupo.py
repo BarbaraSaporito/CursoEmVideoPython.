@@ -1,6 +1,7 @@
-#Um programa que analise quantos maiores de 18 anos
-#Quantos homens cadastrados
-#Quantas mulheres com menos de 20 anos
+# Um programa que analise quantos maiores de 18 anos
+# Quantos homens cadastrados
+# Quantas mulheres com menos de 20 anos
+from time import sleep
 print("=" * 20)
 print("Cadastre uma pessoa".upper())
 print("=" * 20)
@@ -24,7 +25,7 @@ while True:
 ''')).upper().strip()[0]
     if continuar == 'N':
         break
+sleep(2)
 print(f"Total de {maiores} pessoas com mais de 18 anos ")
 print(f"Ao todo temos {homem} homens cadastrados ")
 print(f"E temos {mulher} mulheres com menos de 20 anos")
-s
