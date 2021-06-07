@@ -27,3 +27,4 @@ while True:
 print(f"Total de {maiores} pessoas com mais de 18 anos ")
 print(f"Ao todo temos {homem} homens cadastrados ")
 print(f"E temos {mulher} mulheres com menos de 20 anos")
+s
