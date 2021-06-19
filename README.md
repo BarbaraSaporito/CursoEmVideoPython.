@@ -3,6 +3,8 @@ Esses são exercicios do curso de Python da plataforma [Curso em vídeo](https:/
 
 Esse curso tem como objetivo ensinar e solidificar fundamentos básicos em lógica de programação usando a linguagem Python.
 
+![guanabara](https://i.imgur.com/7rQ1sIF.jpg?1)
+
 ## Começando bem
 
 Ao longo de diversos exercicios, práticos conceitos básicos de programação como;
